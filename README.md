@@ -22,6 +22,13 @@
 <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" title="Machine Learning" alt="Machine Learning" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" title="Data Science" alt="Data Science" width="100" height="60"/>&nbsp;
 <img src="https://c.tenor.com/lQscD8Sey_EAAAAC/blockchain-distributed.gif" title="Blockchain" alt="Blockchain" width="100" height="60"/>&nbsp;
+<img src="https://cdn.dribbble.com/users/14268/screenshots/5320393/ar.gif" title="Augmented Reality" alt="Augmented Reality" width="100" height="60"/>&nbsp;
+<img src="https://media.giphy.com/media/IzcMimLtkdisKvbx70/giphy.gif" title="Virtual Reality" alt="Virtual Reality" width="100" height="60"/>&nbsp;
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="100" height="60"/>&nbsp;
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="100" height="60"/>&nbsp;
+ <iframe src="https://giphy.com/embed/PvwNfTzHUX9y7ICxiF" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-PvwNfTzHUX9y7ICxiF">via GIPHY</a></p>
+
+
 </div>
 
 - 👋 Hi, I’m @Aadhityaa
