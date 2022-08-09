@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 <div id="badges">
@@ -11,7 +11,7 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @Aadhityaa06
+- 👋 Hi, I’m @Aadhityaa
 - 👀 I’m interested in ... Blockchain, Metaverse and crypto technologies.
 - 🌱 I’m currently learning and developing ... NFT's, blockchains etc..
 - 💞️ I’m looking to collaborate on ...
