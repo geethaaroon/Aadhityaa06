@@ -19,6 +19,9 @@
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" title="Artificial Intelligence" alt="Artificial Intelligence" width="100" height="60"/>&nbsp;
+<img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" title="Machine Learning" alt="Machine Learning" width="100" height="60"/>&nbsp;
+<img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" title="Artificial Intelligence" alt="Artificial Intelligence" width="100" height="60"/>&nbsp;
+<img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" title="Artificial Intelligence" alt="Artificial Intelligence" width="100" height="60"/>&nbsp;
 </div>
 
 - 👋 Hi, I’m @Aadhityaa
