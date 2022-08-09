@@ -17,7 +17,7 @@
 </h1>
 <div>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="60" height="40"/>&nbsp;
 </div>
 
 - 👋 Hi, I’m @Aadhityaa
