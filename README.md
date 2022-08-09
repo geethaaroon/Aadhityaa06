@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" title="Artificial Intelligence" alt="Artificial Intelligence" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" title="Machine Learning" alt="Machine Learning" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" title="Data Science" alt="Data Science" width="100" height="60"/>&nbsp;
-<img src="https://tenor.com/view/blockchain-distributed-drowning-decentralised-distributed-ledger-technology-gif-19814550" title="Blockchain" alt="Blockchain" width="100" height="60"/>&nbsp;
+<img src="https://c.tenor.com/lQscD8Sey_EAAAAC/blockchain-distributed.gif" title="Blockchain" alt="Blockchain" width="100" height="60"/>&nbsp;
 </div>
 
 - 👋 Hi, I’m @Aadhityaa
