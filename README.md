@@ -26,7 +26,6 @@
 <img src="https://media.giphy.com/media/IzcMimLtkdisKvbx70/giphy.gif" title="Virtual Reality" alt="Virtual Reality" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="100" height="60"/>&nbsp;
- <iframe src="https://giphy.com/embed/PvwNfTzHUX9y7ICxiF" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-PvwNfTzHUX9y7ICxiF">via GIPHY</a></p>
 
 
 </div>
