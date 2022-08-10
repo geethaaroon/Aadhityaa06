@@ -40,7 +40,7 @@
 - 👋 Hi, I’m Aadhityaa
 - 👀 I’m interested in Blockchain, Metaverse, Image processing AI,ML and crypto technologies.
 - 🌱 I’m currently learning and developing NFT's, blockchains etc..
-- 📫 How to reach me <a href="https://www.linkedin.com/in/aadhi06/">
+- 📫 <h3>Reach me at</h3> <a href="https://www.linkedin.com/in/aadhi06/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
