@@ -34,7 +34,9 @@
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></p>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> 
+<h2> About Me </h2> 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 👋 Hi, I’m @Aadhityaa
 - 👀 I’m interested in ... Blockchain, Metaverse and crypto technologies.
 - 🌱 I’m currently learning and developing ... NFT's, blockchains etc..
