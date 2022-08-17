@@ -38,9 +38,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👋 Hi, I’m Aadhityaa
-👀 I’m interested in Blockchain, Metaverse, Image processing AI,ML and crypto technologies.
-🌱 I’m currently learning and developing NFT's, blockchains etc..
-📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/">
+- 👀 I’m interested in Blockchain, Metaverse, Image processing AI,ML and crypto technologies.
+- 🌱 I’m currently learning and developing NFT's, blockchains etc..
+- 📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
