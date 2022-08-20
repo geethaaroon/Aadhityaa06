@@ -19,7 +19,7 @@
     <h3 align="center">Hey there A passionate developer from India<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 </h1>
 <div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools known:</h3>
 <p align="center">
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" title="Python" alt="Python" width="100" height="60"/>&nbsp;
 <img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" title="Artificial Intelligence" alt="Artificial Intelligence" width="100" height="60"/>&nbsp;
